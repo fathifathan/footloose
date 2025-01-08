@@ -4,7 +4,7 @@ window.addEventListener("load", () =>{
   loader.classList.add("loading-page-hidden");
 
   loader.addEventListener("transitionend", () => {
-    window.location.href = "index.html";
+    window.location.href = "home.html";
   })
 })
 
